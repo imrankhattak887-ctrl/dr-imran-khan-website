@@ -2,7 +2,183 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-V2-PREVIEW.html"
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/about/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/results",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/results/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/technology",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/technology/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/credentials",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/credentials/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/reviews",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/reviews/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/contact/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/clinic-location",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/clinic-location/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant/fue",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant/fue/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant/sapphire-fue",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant/sapphire-fue/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant/prp",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant/prp/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant/exosomes",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/hair-transplant/exosomes/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/botox",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/botox/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/dermal-fillers",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/dermal-fillers/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/hydrafacial",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/hydrafacial/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/laser-hair-removal",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/laser-hair-removal/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/pico-laser",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/pico-laser/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/co2-laser",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/co2-laser/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/chemical-peels",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/chemical-peels/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/microneedling",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/microneedling/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/pigmentation",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
+    },
+    {
+      "source": "/aesthetic-services/pigmentation/",
+      "destination": "/DR-IMRAN-KHAN-SEO-SINGLE-FILE-SEO-FINAL.html"
     }
   ]
 }
